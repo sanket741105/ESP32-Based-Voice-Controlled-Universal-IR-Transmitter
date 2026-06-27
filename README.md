@@ -1,6 +1,6 @@
 # ESP32-Based-Voice-Controlled-Universal-IR-Transmitter
 
-As part of our Tinkering course, we built an **IR blaster controlled via a voice assistant**. The objective was to use an **ESP32-WROOM-32** microcontroller to send IR signals that could operate a set-top box. We chose the ESP32-WROOM-32 as it was readily available in the lab and well-suited for general-purpose IoT applications.
+Built an **IR blaster controlled via a voice assistant**. The objective was to use an **ESP32-WROOM-32** microcontroller to send IR signals that could operate a set-top box. We chose the ESP32-WROOM-32 as it was readily available in the lab and well-suited for general-purpose IoT applications.
 
 #### System Overview:
 
